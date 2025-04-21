@@ -55,7 +55,7 @@ Follow these steps to run the project locally:
    open index.html
    ```
 
-## ✍️ Author
+## 👨‍💻 Developer
 
 **Razeel Kapdi**
 
